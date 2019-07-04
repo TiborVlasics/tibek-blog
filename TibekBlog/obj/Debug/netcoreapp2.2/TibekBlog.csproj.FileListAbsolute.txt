@@ -1,0 +1,14 @@
+D:\Projects\TibekBlog\TibekBlog\bin\Debug\netcoreapp2.2\TibekBlog.dll
+D:\Projects\TibekBlog\TibekBlog\bin\Debug\netcoreapp2.2\TibekBlog.deps.json
+D:\Projects\TibekBlog\TibekBlog\bin\Debug\netcoreapp2.2\TibekBlog.runtimeconfig.json
+D:\Projects\TibekBlog\TibekBlog\bin\Debug\netcoreapp2.2\TibekBlog.runtimeconfig.dev.json
+D:\Projects\TibekBlog\TibekBlog\obj\Debug\netcoreapp2.2\TibekBlog.csproj.CoreCompileInputs.cache
+D:\Projects\TibekBlog\TibekBlog\obj\Debug\netcoreapp2.2\TibekBlog.RazorAssemblyInfo.cache
+D:\Projects\TibekBlog\TibekBlog\obj\Debug\netcoreapp2.2\TibekBlog.RazorAssemblyInfo.cs
+D:\Projects\TibekBlog\TibekBlog\obj\Debug\netcoreapp2.2\TibekBlog.AssemblyInfoInputs.cache
+D:\Projects\TibekBlog\TibekBlog\obj\Debug\netcoreapp2.2\TibekBlog.AssemblyInfo.cs
+D:\Projects\TibekBlog\TibekBlog\obj\Debug\netcoreapp2.2\TibekBlog.RazorTargetAssemblyInfo.cache
+D:\Projects\TibekBlog\TibekBlog\obj\Debug\netcoreapp2.2\TibekBlog.dll
+D:\Projects\TibekBlog\TibekBlog\obj\Debug\netcoreapp2.2\TibekBlog.pdb
+D:\Projects\TibekBlog\TibekBlog\bin\Debug\netcoreapp2.2\TibekBlog.pdb
+D:\Projects\TibekBlog\TibekBlog\obj\Debug\netcoreapp2.2\TibekBlog.csprojAssemblyReference.cache
